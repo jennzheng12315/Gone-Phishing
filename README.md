@@ -28,7 +28,7 @@ At the end of the maze, users are surprised by a monster blocking the exit, and 
 * The casual title, "Gone Phishing," and the simplistic design aims to misdirect users and adds to the surprise of a hacking
 * In most games, users expect that all, or nearly all, items must have a reason to exist. However, in Gone Phishing, most items have no purpose at all.
 
-Based on the positive feedback I've recieved so far, I would say that while difficult, Gone Phishing was successful in showing that affordances do not necessarily have to help people to keep them engaged in a digital medium.
+Based on the positive feedback I've recieved so far, I've gathered that users did enjoy the game despite the difficulty level (which is to be expected considering the use of poor affordances). Therefore, I would say that Gone Phishing was successful in showing that affordances do not necessarily have to help people to keep them engaged in a digital medium.
 
 ## 🛠️ Built with 
 * <a href="https://twinery.org/">Twine</a>
