@@ -1,5 +1,5 @@
 # 🎣 Gone Phishing 
-### Take a relaxing, virtual ~~ f ~~phishing trip from the comfort of your home!  
+### Take a relaxing, virtual phishing trip from the comfort of your home!  
   
 **<a href="https://gone-phishing.glitch.me/">Play Gone Phishing!</a>**
 
