@@ -8,7 +8,9 @@
 ## 💡 Intro
   
 In her book, *Inventing the Medium: Principles of Interaction Design as a Cultural Practice*, Janet Murray explores how designers can exploit users’ affordances of a digital medium to provide a positive experience. Many companies also use affordances to create a great UX for their products. I, however, wanted to see if I could keep users engaged while using their affordances against them. Thus, Gone Phishing was born.
-  
+
+![Game Title Page](https://user-images.githubusercontent.com/71287285/126561338-27a1c2a1-3593-444d-84fa-420d9eb346a2.PNG)
+
 ## 📋 About the Project
 
 When creating Gone Phishing, I chose to focus on three affordances of a hypertext game: readability, working navigational links, and solvable challenges. The first two are important to the medium, hypertext, and the third plays a large role in game design. 
@@ -20,6 +22,8 @@ Furthermore, one chest can only be unlocked if users can decipher what appears t
 
 ### Working navigational links
 Once users begin the game and discover that their computer has been hacked, they recieve a "Quit Game" link that allows them to quit the game, which is a typical response to many people who find themselves in this situation. However, However, users will find that the unseen person will not allow them to leave, and if they look at the navigation bar, they will find that they cannot use a back or forward arrow. By going against their expectations, it adds to the surprise and takes away some of the users’ sense of control (though not all of it since they can still close the window). They are forced to continue the story and eventually enter the maze.
+
+![Quit Game Gif](https://user-images.githubusercontent.com/71287285/126561244-cc1c8ee8-4f63-4913-aa8f-fd00392c88d7.gif)  
 
 ### Solvable Challenges
 At the end of the maze, users are surprised by a monster blocking the exit, and they have ten seconds to select the item that will defeat it. The timer creates a sense of urgency and tension as users reach the climax of their experience.  However, no matter what objects they use, they cannot defeat it and eventually receive the message “You have died." That is because the game is rigged; the unseen person does not want anyone escaping.
